@@ -5,12 +5,6 @@ Status](https://secure.travis-ci.org/Bogdaan/viber-bot-php.png)](http://travis-c
 
 Library to develop a bot for the Viber platform. [Create you first Viber bot step by step](docs/first-steps.md), see demo at `viber://pa?chatURI=viber-bot-php&context=github.com`
 
-## Installation
-
-```
-composer require bogdaan/viber-bot-php
-```
-
 ## Example
 
 ```php
@@ -112,17 +106,6 @@ See more in **examples** directory.
 - [SDK for node](https://github.com/Viber/viber-bot-node)
 - [SDK for python](https://github.com/Viber/viber-bot-python)
 - [Project page](http://viber.hcbogdan.com/)
-
-## Features
-
-- [x] all api entities
-- [x] validate request and response signs
-- [x] provide webhook interface
-- [x] provide event interface
-- [ ] wrap all api response to entities
-- [ ] validate api entities before submit?
-- [ ] implement log levels with monolog?
-- [ ] post on public page
 
 ## Contributing
 
